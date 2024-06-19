@@ -1,0 +1,7 @@
+spring:
+    rabbitmq:   
+        username: admin
+        password: admin
+    
+server:
+    port: 8180
